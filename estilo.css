@@ -1,0 +1,39 @@
+.img1{
+    text-align: center;   
+}
+
+h1, h2{ 
+    text-align: center;
+}
+
+.mudar_cor{
+    color: red;
+    text-align: center;
+}
+
+body{
+    background-color:#D3D3D3;
+}
+
+#div_texto{
+    background-color: white;
+}
+
+.div_lista{
+    background-color: white;
+    display: inline-block;
+    width: 50%;
+    vertical-align: top;
+    height: :200px;
+}
+
+.img2{
+    background-color: white;
+    width: 49%;
+    display: inline-block;
+    text-align: right;
+}
+
+.img3{
+    display: inline-block;
+}
